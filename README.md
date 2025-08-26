@@ -16,10 +16,14 @@ This project provides **4 main services**:
    - Supports **UPI, Card, and Cash** payments.  
    - Implements **polymorphism** via a `Payment` superclass and specialized payment methods.  
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8be27f15-96eb-4538-98ad-b69cd49a0272" />
+
+
 3. **🍽️ Restaurant Services**  
    - Manage independent restaurants, menus, and dishes.  
    - Each restaurant is modeled as an independent class.
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/450e0de6-1b44-44f8-8747-265c9c459ac5" />
+
+
 4. **🛒 Order Services**  
    - Handles placing, tracking, updating, and canceling orders.  
    - Shows **Has-A relationship** with `Customer` and `Payment` classes.
@@ -30,3 +34,11 @@ This project provides **4 main services**:
 - **Abstraction:** Abstract classes for User types to enforce shared structure.  
 - **Inheritance:** Concrete user types extend the abstract User class.  
 - **Polymorphism:** Payment operations (`makePayment`, `refundPayment`) demonstrate dynamic be
+
+ ## 🖼 Screenshots of Output
+<img width="1920" height="1080" alt="Screenshot (1370)" src="https://github.com/user-attachments/assets/7c6dcd42-838c-44e3-970a-b389c868fc3e" />
+<img width="1920" height="1080" alt="Screenshot (1371)" src="https://github.com/user-attachments/assets/ea44245a-aeed-4a35-b46b-51a1ebbbf769" />
+<img width="1920" height="1080" alt="Screenshot (1372)" src="https://github.com/user-attachments/assets/5ec09539-3901-420d-993b-b5b47e0403b4" />
+
+ 
+  
