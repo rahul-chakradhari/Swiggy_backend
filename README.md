@@ -19,7 +19,7 @@ This project provides **4 main services**:
 3. **🍽️ Restaurant Services**  
    - Manage independent restaurants, menus, and dishes.  
    - Each restaurant is modeled as an independent class.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/450e0de6-1b44-44f8-8747-265c9c459ac5" />
 4. **🛒 Order Services**  
    - Handles placing, tracking, updating, and canceling orders.  
    - Shows **Has-A relationship** with `Customer` and `Payment` classes.
