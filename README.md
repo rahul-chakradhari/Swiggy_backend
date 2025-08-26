@@ -10,7 +10,7 @@ This project provides **4 main services**:
 1. **👤 User Services**  
    - Handles `Customer`, `Admin`, and `DeliveryPartner`.  
    - Uses **abstract classes** for inheritance and shared properties.
-     
+     <img width="830" height="288" alt="Image" src="https://github.com/user-attachments/assets/30f7b672-3bad-46c4-a77c-c7c68307bb23" />
 
 2. **💳 Payment Services**  
    - Supports **UPI, Card, and Cash** payments.  
