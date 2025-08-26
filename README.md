@@ -15,7 +15,7 @@ This project provides **4 main services**:
 2. **💳 Payment Services**  
    - Supports **UPI, Card, and Cash** payments.  
    - Implements **polymorphism** via a `Payment` superclass and specialized payment methods.  
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8be27f15-96eb-4538-98ad-b69cd49a0272" />
 3. **🍽️ Restaurant Services**  
    - Manage independent restaurants, menus, and dishes.  
    - Each restaurant is modeled as an independent class.
